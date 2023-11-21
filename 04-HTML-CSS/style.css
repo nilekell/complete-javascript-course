@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(243, 243, 109);
+    font-family: Arial;
+    font-size: 40px;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 80px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#h2id {
+    color: white;
+}
+
+p {
+    margin: 20px
+}
+
+.first {
+    color: red;
+}
+
+#your-name {
+    background-color: green;
+    border: 5px solid #444;
+    padding: 25px;
+}
